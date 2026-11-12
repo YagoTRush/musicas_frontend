@@ -1,4 +1,4 @@
-const urlBackend = "http://localhost:3001"
+const urlBackend = "https://musicas-backend-wheat.vercel.app"
 
 const inputTitulo = document.getElementById("titulo")
 const inputArtista = document.getElementById("artista")

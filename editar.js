@@ -1,4 +1,4 @@
-const urlBackend = "http://localhost:3001"
+const urlBackend = "https://musicas-backend-wheat.vercel.app"
 
 const parametros = new URLSearchParams(window.location.search)
 const id = parametros.get("id")
